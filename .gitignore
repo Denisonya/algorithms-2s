@@ -1,9 +1,6 @@
 # OS
 .DS_Store
 
-# TXT
-*.txt
-
 # VENV
 *.venv
 
